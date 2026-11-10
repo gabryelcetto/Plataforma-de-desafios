@@ -33,3 +33,6 @@ build/
 .vscode/
 ### Configurações locais ###
 application-local.properties
+## Segredos (nunca versionar) ##
+.env
+!.env.example
